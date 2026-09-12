@@ -9,6 +9,11 @@ Punto 35 - 4.40, 4.49
 Punto 44 - 15.1.2
 
 Diego:
+Punto 2 - 1.5
+Punto 13 - 2.96
+Punto 24 - 3.6, 3.22
+Punto 34 - 4.8, 4.26
+Punto 41 - 6.1.3
 
 Ángel:
 
