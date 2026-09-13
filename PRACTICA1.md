@@ -18,9 +18,16 @@ Punto 24 - 3.6, 3.22
 Punto 34 - 4.8, 4.26
 Punto 41 - 6.1.3
 Resumen del punto A
-- Ángel:
 
-Resumen:
+- Ángel:
+Punto 7 - ¿qué es una combinación?
+Punto 11 - 2.53, 2.61
+Punto 20 - ¿qué es una distribución de probabilidad conjunta?
+Punto 21 - ¿qué es una distribución de probabilidad marginal?
+Punto 37 - 4.88, 4.98
+Punto 42 - 7.1.8 
+Resumen Del Punto D
+
 - Gabriel:
 
 Punto 9 - 2.19
