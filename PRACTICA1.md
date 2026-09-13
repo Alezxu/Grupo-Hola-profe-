@@ -28,4 +28,4 @@ punto 10 - 2.33, 2.38
 Punto 25 - 3.48, 3.55
 punto 26 - 3.68
 punto 39 - 4.3.1
-Resumen Del punto C
+Resumen Del punto B
