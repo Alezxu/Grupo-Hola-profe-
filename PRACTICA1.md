@@ -20,6 +20,7 @@ Punto 41 - 6.1.3
 Resumen del punto A
 
 - Ángel:
+
 Punto 7 - ¿qué es una combinación?
 Punto 11 - 2.53, 2.61
 Punto 20 - ¿qué es una distribución de probabilidad conjunta?
