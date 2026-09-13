@@ -23,7 +23,7 @@ Resumen del punto A
 Resumen:
 - Gabriel:
 
-Punto 9 - 2.9
+Punto 9 - 2.19
 punto 10 - 2.33, 2.38
 Punto 25 - 3.48, 3.55
 punto 26 - 3.68
