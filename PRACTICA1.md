@@ -1,6 +1,7 @@
 # Grupo-Hola-profe-
 ## Repartición de los ejercicios de la Práctica 1
 Documento de los resumenes: https://docs.google.com/document/d/1IcL1l-9536-5F3qJDZ9MepgSkVINF-_8LUT8dFdJ9ao/edit?usp=sharing
+Presentacion#1: https://www.canva.com/design/DAHVIdREfMc/APaxmkWxavbFJQ60gZeb4Q/edit?ui=e30
 - Alex: 
 
 Punto 9 - 2.8
