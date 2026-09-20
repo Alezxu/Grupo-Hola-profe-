@@ -5,13 +5,13 @@ El laboratorio se dividio en 3 puntos:
 - Parte II: eventos estadísticamente independiente(1 personas)
 - Parte III: teorema de bayes (segunda parte de la practica)(2 personas)
 Enlace colab(pendiente):
-- Alex:
+- Alex: parte III
 
 - Diego: parte III
 
 - Gabriel: parte I
   
-- Ángel: 
+- Ángel: parte II
 ## Repartición de los ejercicios de la Práctica 1
 Documento de los resumenes: https://docs.google.com/document/d/1IcL1l-9536-5F3qJDZ9MepgSkVINF-_8LUT8dFdJ9ao/edit?usp=sharing
 
