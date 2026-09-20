@@ -4,7 +4,9 @@ El laboratorio se dividio en 3 puntos:
 - Parte I: la influenza(1 persona)
 - Parte II: eventos estadísticamente independiente(1 personas)
 - Parte III: teorema de bayes (segunda parte de la practica)(2 personas)
-Enlace colab(pendiente):
+
+Enlace colab:https://colab.research.google.com/drive/1rDyaHUY40GpyDzYN1qrUmBTGjDb2KIMP?authuser=2#scrollTo=gEb6jz7T8L7y
+
 - Alex: parte III
 
 - Diego: parte III
