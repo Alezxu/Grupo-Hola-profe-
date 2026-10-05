@@ -19,9 +19,6 @@ Presentacion#2:
 
 
 - Gabriel:
-- 1 (5.7)
--  6 (6.24)
-- 2 (5.33, 5.41)
-Resumen del punto A
+  1 (5.7)-  6 (6.24)- 2 (5.33, 5.41)-Resumen del punto A
 
 
