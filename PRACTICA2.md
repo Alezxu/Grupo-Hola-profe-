@@ -7,7 +7,8 @@ Documento de los resumenes:
 
 Presentacion#2: https://canva.link/a5qndughp99tct2
 
-- Alex: 
+- Alex:
+   3 (5.57)- 4 (3.21, 3.26)- 6 (6.24)  Resumen del punto B
 
 
 - Diego:
