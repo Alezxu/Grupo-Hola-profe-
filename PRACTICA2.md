@@ -5,7 +5,7 @@
 ## Repartición de los ejercicios de la Práctica 2
 Documento de los resumenes: 
 
-Presentacion#2:
+Presentacion#2: https://canva.link/a5qndughp99tct2
 
 - Alex: 
 
