@@ -11,7 +11,7 @@ Presentacion#2: https://canva.link/a5qndughp99tct2
    3 (5.57)- 4 (3.21, 3.26)- 6 (6.24)  Resumen del punto B
 
 
-- Diego:
+- Diego: 5 (6.7), 7 (6.41), 12, 15 - Resumen del punto C
 
 
 
@@ -20,6 +20,6 @@ Presentacion#2: https://canva.link/a5qndughp99tct2
 
 
 - Gabriel:
-  1 (5.7)-  6 (6.24)- 2 (5.33, 5.41)-Resumen del punto A
+  1 (5.7), 6 (6.24), 2 (5.33, 5.41) - Resumen del punto A
 
 
