@@ -15,7 +15,7 @@ Presentacion#2: https://canva.link/a5qndughp99tct2
 
 
 
-- Ángel:
+- Ángel: 8 (4.6, 4.16, 4.26) - Resumen del punto D
 
 
 
