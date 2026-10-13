@@ -3,7 +3,7 @@
 ## Repartición de los ejercicios del laboratorio 2
 
 ## Repartición de los ejercicios de la Práctica 2
-Documento de los resumenes: 
+Documento de los resumenes: https://docs.google.com/document/d/1WeOubzFLanCUUGXDqjKeMKotpQT_avpL6AxOALucOgE/edit?usp=sharing
 
 Presentacion#2: https://canva.link/a5qndughp99tct2
 
